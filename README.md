@@ -1,5 +1,6 @@
 # Conservation of energy using a conveyor belt
-### Built a roller coaster setup using conveyor belts to show the Conservation of Energy, designed using, Arduino IDE and the ESP-32 microcontroller. Implement a dashboard interface using ESP-32 camera which allows users to view the experiment live from elsewhere.
+
+#### Built a roller coaster setup using conveyor belts to show the Conservation of Energy, designed using, Arduino IDE and the ESP-32 microcontroller. Implement a dashboard interface using ESP-32 camera which allows users to view the experiment live from elsewhere.
 
 ## Overview
 
